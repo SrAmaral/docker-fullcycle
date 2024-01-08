@@ -5,7 +5,7 @@ Este repositorio foi criado para conter os arquivos do desafio, do modulo de doc
 ### Descrição do desafio
 > Você terá que publicar uma imagem no `Docker hub`. Quando executarmos:
 ~~~
-docker run <seu-user>/codeeducation
+docker run <seu-user>/golang
 ~~~
 >Temos que ter o seguinte resultado: 
 ~~~
